@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beanlord564usesdebianBTW
 - 👀 Linux
-- 🌱 Bash scripting
+- 🌱 Local AI and building things with Raspberry Pi
 - 💞️ I like working alone
 - 📫 Gerrenmgrayer@gmail.com
 - 😄 not telling you
